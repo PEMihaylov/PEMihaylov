@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PEMihaylov
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Petar Mihaylov
+- 👀 I’m interested in AI and energy trading
+- 🌱 I’m currently learning Python in Software university Sofia
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Please feel free to contact me via petar.mihaylov@students.softuni.bg
 
 <!---
 PEMihaylov/PEMihaylov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
